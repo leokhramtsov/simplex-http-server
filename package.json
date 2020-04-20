@@ -1,0 +1,11 @@
+{
+  "name": "simplex-http-server",
+  "version": "1.0.0",
+  "description": "Basic Node.js http server with router",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Leo Khramtsov",
+  "license": "ISC"
+}
